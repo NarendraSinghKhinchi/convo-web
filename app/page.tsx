@@ -14,7 +14,7 @@ const Home = () => {
       <div className="absolute w-full h-full left-0 top-0">
         <div className="text-center mt-8 geordingan  tracking-widest">
           <div className="text-8xl">
-            Let's chat on Convo
+            Let&apos;s chat on Convo
           </div>
           <div className="text-3xl -mt-1">
             Chit-Chat to Banta Hai !
